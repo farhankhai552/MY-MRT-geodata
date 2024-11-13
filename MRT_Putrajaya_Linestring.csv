@@ -1,4 +1,4 @@
-ID,Geometry,Station Name,Station Code,Service Provider Name,Route Name,Longitude,Latitude
+ID,Geometry,Stop Name,Station Code,Service Provider Name,Route Name,Longitude,Latitude
 1,LineString,Kwasa Damansara,KG04 / PY01,Rapid KL,Kajang / Putrajaya Line,101.57205,3.17615
 2,LineString,Kampung Selamat,PY03,Rapid KL,Putrajaya Line,101.57844,3.19730
 3,LineString,Sungai Buloh,PY04,Rapid KL,Putrajaya Line,101.58085,3.20611
