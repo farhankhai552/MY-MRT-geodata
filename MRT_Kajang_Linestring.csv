@@ -1,0 +1,30 @@
+ID,Geometry,Stop Name,Station Code,Service Provider Name,Route Name,Longitude,Latitude
+1,LineString,Kwasa Damansara,KG04 / PY01,Rapid KL,Kajang / Putrajaya Line,101.57205,3.17615
+2,LineString,Kwasa Sentral,KG05,Rapid KL,Kajang Line,101.56465,3.17011
+3,LineString,Kota Damansara,KG06,Rapid KL,Kajang Line,101.57869,3.15013
+4,LineString,Surian,KG07,Rapid KL,Kajang Line,101.59392,3.14948
+5,LineString,Mutiara Damansara,KG08,Rapid KL,Kajang Line,101.60908,3.15530
+6,LineString,Bandar Utama,KG09,Rapid KL,Kajang Line,101.61860,3.14671
+7,LineString,Taman Tun Dr Ismail,KG10,Rapid KL,Kajang Line,101.63054,3.13613
+8,LineString,Phileo Damansara,KG12,Rapid KL,Kajang Line,101.64247,3.12986
+9,LineString,Pusat Bandar Damansara,KG13,Rapid KL,Kajang Line,101.66286,3.14344
+10,LineString,Semantan,KG14,Rapid KL,Kajang Line,101.66550,3.15098
+11,LineString,Muzium Negara,KG15,Rapid KL,Kajang Line,101.68734,3.13732
+12,LineString,Pasar Seni,KG16,Rapid KL,Kajang Line,101.69556,3.14229
+13,LineString,Merdeka,KG17,Rapid KL,Kajang Line,101.70205,3.14197
+14,LineString,Bukit Bintang,KG18A,Rapid KL,Kajang Line,101.71095,3.14650
+15,LineString,Tun Razak Exchange,KG20,Rapid KL,Kajang Line,101.72016,3.14240
+16,LineString,Cochrane,KG21,Rapid KL,Kajang Line,101.72296,3.13283
+17,LineString,Maluri,KG22,Rapid KL,Kajang Line,101.72781,3.12362
+18,LineString,Taman Pertama,KG23,Rapid KL,Kajang Line,101.72937,3.11255
+19,LineString,Taman Midah,KG24,Rapid KL,Kajang Line,101.73219,3.10451
+20,LineString,Taman Mutiara,KG25,Rapid KL,Kajang Line,101.74045,3.09099
+21,LineString,Taman Connaught,KG26,Rapid KL,Kajang Line,101.74522,3.07917
+22,LineString,Taman Suntex,KG27,Rapid KL,Kajang Line,101.76355,3.07158
+23,LineString,Sri Raya,KG28,Rapid KL,Kajang Line,101.77290,3.06227
+24,LineString,Bandar Tun Hussien Onn,KG29,Rapid KL,Kajang Line,101.77511,3.04822
+25,LineString,Batu 11 Cheras,KG30,Rapid KL,Kajang Line,101.77338,3.04134
+26,LineString,Bukit Dukung,KG31,Rapid KL,Kajang Line,101.77107,3.02641
+27,LineString,Sungai Jernih,KG33,Rapid KL,Kajang Line,101.78386,3.00095
+28,LineString,Stadium Kajang,KG34,Rapid KL,Kajang Line,101.78634,2.99451
+29,LineString,Kajang,KG35,Rapid KL,Kajang Line,101.79028,2.98278

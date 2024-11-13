@@ -1,0 +1,39 @@
+ID,Geometry,Station Name,Station Code,Service Provider Name,Route Name,Longitude,Latitude
+1,LineString,Kwasa Damansara,KG04 / PY01,Rapid KL,Kajang / Putrajaya Line,101.57205,3.17615
+2,LineString,Kampung Selamat,PY03,Rapid KL,Putrajaya Line,101.57844,3.19730
+3,LineString,Sungai Buloh,PY04,Rapid KL,Putrajaya Line,101.58085,3.20611
+4,LineString,Damansara Damai,PY05,Rapid KL,Putrajaya Line,101.59291,3.19980
+5,LineString,Sri Damansara Barat,PY06,Rapid KL,Putrajaya Line,101.60841,3.19831
+6,LineString,Sri Damansara Sentral,PY07,Rapid KL,Putrajaya Line,101.62110,3.19857
+7,LineString,Sri Damansara Timur,PY08,Rapid KL,Putrajaya Line,101.62868,3.20775
+8,LineString,Metro Prima,PY09,Rapid KL,Putrajaya Line,101.64037,3.21457
+9,LineString,Kepong Baru,PY10,Rapid KL,Putrajaya Line,101.64823,3.21174
+10,LineString,Jinjang,PY11,Rapid KL,Putrajaya Line,101.65600,3.20955
+11,LineString,Sri Delima,PY12,Rapid KL,Putrajaya Line,101.66561,3.20718
+12,LineString,Kampung Batu,PY13,Rapid KL,Putrajaya Line,101.67527,3.20600
+13,LineString,Kentonmen,PY14,Rapid KL,Putrajaya Line,101.67965,3.19558
+14,LineString,Jalan Ipoh,PY15,Rapid KL,Putrajaya Line,101.68107,3.18962
+15,LineString,Sentul Barat,PY16,Rapid KL,Putrajaya Line,101.68474,3.17943
+16,LineString,Titiwangsa,PY17,Rapid KL,Putrajaya Line,101.69532,3.17361
+17,LineString,Hospital Kuala Lumpur,PY18,Rapid KL,Putrajaya Line,101.70228,3.17401
+18,LineString,Raja Uda,PY19,Rapid KL,Putrajaya Line,101.71020,3.16769
+19,LineString,Ampang Park,PY20,Rapid KL,Putrajaya Line,101.71910,3.15989
+20,LineString,Persiaran KLCC,PY21,Rapid KL,Putrajaya Line,101.71837,3.15743
+21,LineString,Conlay,PY22,Rapid KL,Putrajaya Line,101.71807,3.15127
+22,LineString,Tun Razak Exchange (TRX),PY23,Rapid KL,Putrajaya Line,101.7202,3.14282
+23,LineString,Chan Sow Lin,PY24,Rapid KL,Putrajaya Line,101.71635,3.12831
+24,LineString,Bandar Malaysia Utara,PY25,Rapid KL,Putrajaya Line,101.70233,3.11520
+25,LineString,Bandar Malaysia Selatan,PY26,Rapid KL,Putrajaya Line,101.69748,3.10789
+26,LineString,Kuchai,PY27,Rapid KL,Putrajaya Line,101.69373,3.09006
+27,LineString,Taman Naga Emas,PY28,Rapid KL,Putrajaya Line,101.69963,3.07767
+28,LineString,Sungai Besi,PY29,Rapid KL,Putrajaya Line,101.70842,3.06387
+29,LineString,Serdang Raya Utara,PY31,Rapid KL,Putrajaya Line,101.70505,3.04227
+30,LineString,Serdang Raya Selatan,PY32,Rapid KL,Putrajaya Line,101.70771,3.02850
+31,LineString,Serdang Jaya,PY33,Rapid KL,Putrajaya Line,101.70900,3.02140
+32,LineString,UPM,PY34,Rapid KL,Putrajaya Line,101.70554,3.00854
+33,LineString,Taman Equine,PY36,Rapid KL,Putrajaya Line,101.67250,2.98929
+34,LineString,Putra Permai,PY37,Rapid KL,Putrajaya Line,101.66070,2.98316
+35,LineString,16 Sierra,PY38,Rapid KL,Putrajaya Line,101.65494,2.96535
+36,LineString,Cyberjaya Utara,PY39,Rapid KL,Putrajaya Line,101.65721,2.95015
+37,LineString,Cyberjaya City Centre,PY40,Rapid KL,Putrajaya Line,101.66586,2.93844
+38,LineString,Putrajaya Sentral,PY41,Rapid KL,Putrajaya Line,101.67156,2.93117
